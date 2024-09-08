@@ -9,7 +9,7 @@
     </div>
     <div style="margin-top: 20px;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spooderman11&theme=tokyonight&fire=ff6600&ring=ffcc00&sideNums=ffffff&border_radius=15&background=000000&stroke=ff6600" />
+            <img align="center" style="margin-top: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=spooderman11&theme=tokyonight&fire=ff6600&ring=ffcc00&sideNums=ffffff&border_radius=15&background=000000&stroke=ff6600" />
         </a>
     </div>
 </div>
